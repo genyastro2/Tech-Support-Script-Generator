@@ -1,0 +1,2 @@
+# Work Log
+Prevent unnecessary re-renders of static component
